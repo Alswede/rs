@@ -4,7 +4,8 @@
 * Alexander Akishev
 2. Contact Info: 
 * Mail: alexander.alswede@gmail.com
-* Telegram: @alexander_akishev   
+* Telegram: @alexander_akishev
+* Location: Russia, Izhevsk   
             
 3. Summary: 
 * I like to learn. I like to get new knowledge and information. 
