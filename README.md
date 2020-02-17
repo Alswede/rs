@@ -1,3 +1,2 @@
-# rsschool-cv
 
-https://alswede.github.io/rsschool-cv/cv
+https://alswede.github.io/rsschool-cv/
