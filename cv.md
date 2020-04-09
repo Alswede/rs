@@ -20,6 +20,7 @@
 
 ### Code examples (LATEST): ###
 * Link: https://github.com/Alswede/
+* Link: https://www.codewars.com/users/Alswe
 
 ### Experience: ###
 * 2016 year - present - Software engineer (С++, Qt, base JS-script) in company OAO "IRZ" ("Izhevskiy Radiozavod", IRZ).
@@ -43,6 +44,8 @@ Faculty of Instrumentation Engineering,
 College: «Communication Networks and Telecommunication Systems».
 
 * Courses: Stepik.org, sql-ex.ru
+Codewars: https://www.codewars.com/users/Alswe
+HTML Academy:https://htmlacademy.ru/profile/id234506
 
 ### English (elaborate on what kind of practice you had, if any, how long it lasted and so on): ###
 * Intermediate (B1). Reading documentations (at work,example: datasheets, specification,faq) and news, watching Youtube (CNN, Fox-News), serials (Netflix,HBO), speaking.
